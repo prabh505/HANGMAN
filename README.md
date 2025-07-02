@@ -3,7 +3,7 @@ This is a simple Hangman game implemented in Python. The game randomly selects a
 
 How to Play
 
-1)The game randomly selects a word from the words.txt file.\n
+1)The game randomly selects a word from the words.txt file./n
 2)The player guesses letters one by one.
 3)If the guessed letter is in the word, it is revealed in the correct positions.
 4)If the guessed letter is not in the word, a part of the hangman is drawn.
